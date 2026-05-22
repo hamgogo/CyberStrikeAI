@@ -1,9 +1,7 @@
 <div align="center">
   <img src="web/static/logo.png" alt="Логотип CyberStrikeAI" width="200">
-деленья
-
+  
 # Кибератака
-
 
 [中文](README_CN.md) | [Английский](README.md)
 

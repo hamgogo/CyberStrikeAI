@@ -139,7 +139,7 @@ CyberStrikeAI поставляется с более чем 100 специаль
 
 **Развертывание с помощью одной команды:**
 ``
-git clone https://github.com/Ed1s0nZ/CyberStrikeAI.git
+git clone https://github.com/hamgogo/CyberStrikeAI.git
 cd CyberStrikeAI
 chmod +x run.sh && ./run.sh
 ```

@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/78925117?v=4&size=64" alt="Логотип CyberStrikeAI" width="200">
-  
+  <img src="images/logo.png" alt="CyberStrikeAI Logo" width="200">
+</div>
+
 # Кибератака
 
 [中文](README_CN.md) | [Английский](README.md)
